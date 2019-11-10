@@ -1,1 +1,3 @@
-# assigment-car-loan-calculator
+# Student info
+Name: MUHAMMAD KAMARUDIN BIN YUSOFF
+Matrix no: 271061
